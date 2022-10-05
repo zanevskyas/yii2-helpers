@@ -1,0 +1,44 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * Date: 2017-06-04
+ * Time: 16:04
+ */
+
+namespace __NAMESPACE__;
+
+use Yii;
+use yii\helpers\ArrayHelper;
+use yii\rbac\Rule;
+
+/**
+ * Class    __CLASSNAME__
+ *
+ * @package __NAMESPACE__
+ * @version 1.0
+ */
+class __CLASSNAME__ extends Rule
+{
+    /**
+     * @var string
+     */
+    public $name = 'customerRole';
+
+    /**
+     * @inheritdoc
+     */
+    public function execute($user, $item, $params)
+    {
+        if (!Yii::$app->user->isGuest) {
+            $user = ArrayHelper::getValue($params, 'user', Yii::$app->user->identity);
+
+            if ($user) {
+                $role = $user->__ROLE_FIELD__;
+
+__RULES__
+            }
+        }
+
+        return false;
+    }
+}
