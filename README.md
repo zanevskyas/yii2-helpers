@@ -16,7 +16,7 @@ php composer.phar require --prefer-dist zanevskyas/yii2-helpers "@dev"
 or add
 
 ```
-"kakadu-dev/yii2-helpers": "@dev"
+"zanevskyas/yii2-helpers": "@dev"
 ```
 
 to the require section of your `composer.json` file.
