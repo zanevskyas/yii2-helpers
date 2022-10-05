@@ -6,13 +6,13 @@
  * Time: 13:37
  */
 
-namespace Kakadu\Yii2Helpers\Logs\migrations;
+namespace Zanevsky\Yii2Helpers\Logs\migrations;
 
 use yii\db\Migration;
 
 /**
  * Class    M181023133719Create_logs
- * @package Kakadu\Yii2Helpers\Logs\migrations
+ * @package Zanevsky\Yii2Helpers\Logs\migrations
  * @author  Yarmaliuk Mikhail
  * @version 1.0
  */

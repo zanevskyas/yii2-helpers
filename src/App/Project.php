@@ -6,7 +6,7 @@
  * Time: 2:01 PM
  */
 
-namespace Kakadu\Yii2Helpers\App;
+namespace Zanevsky\Yii2Helpers\App;
 
 use Yii;
 use yii\base\Component;
@@ -15,7 +15,7 @@ use yii\helpers\ArrayHelper;
 /**
  * Class    Project
  *
- * @package Kakadu\Yii2Helpers\App
+ * @package Zanevsky\Yii2Helpers\App
  * @author  Yarmaliuk Mikhail
  * @version 1.0
  */

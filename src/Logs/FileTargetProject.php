@@ -6,13 +6,13 @@
  * Time: 12:08 AM
  */
 
-namespace Kakadu\Yii2Helpers\Logs;
+namespace Zanevsky\Yii2Helpers\Logs;
 
 use yii\log\FileTarget;
 
 /**
  * Class    FileTargetProject
- * @package Kakadu\Yii2Helpers\Logs
+ * @package Zanevsky\Yii2Helpers\Logs
  * @author  Yarmaliuk Mikhail
  * @version 1.0
  */

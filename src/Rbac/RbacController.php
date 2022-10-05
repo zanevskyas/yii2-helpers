@@ -6,7 +6,7 @@
  * Time: 6:06 PM
  */
 
-namespace Kakadu\Yii2Helpers\Rbac;
+namespace Zanevsky\Yii2Helpers\Rbac;
 
 use Yii;
 use yii\console\Controller;
@@ -17,7 +17,7 @@ use yii\rbac\Rule;
 /**
  * Class    RbacController
  *
- * @package Kakadu\Yii2Helpers\Rbac
+ * @package Zanevsky\Yii2Helpers\Rbac
  * @author  Yarmaliuk Mikhail
  * @version 1.0
  */

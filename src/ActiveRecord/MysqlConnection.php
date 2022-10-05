@@ -5,7 +5,7 @@
  * Time: 11:49
  */
 
-namespace Kakadu\Yii2Helpers\ActiveRecord;
+namespace Zanevsky\Yii2Helpers\ActiveRecord;
 
 use yii\db\Connection;
 use yii\helpers\ArrayHelper;

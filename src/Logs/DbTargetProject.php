@@ -6,16 +6,16 @@
  * Time: 12:08 AM
  */
 
-namespace Kakadu\Yii2Helpers\Logs;
+namespace Zanevsky\Yii2Helpers\Logs;
 
 use yii\log\DbTarget;
 use yii\di\Instance;
-use Kakadu\Yii2Helpers\App\Project;
+use Zanevsky\Yii2Helpers\App\Project;
 use yii\helpers\VarDumper;
 
 /**
  * Class    DbTargetProject
- * @package Kakadu\Yii2Helpers\Logs
+ * @package Zanevsky\Yii2Helpers\Logs
  * @author  Yarmaliuk Mikhail
  * @version 1.0
  */

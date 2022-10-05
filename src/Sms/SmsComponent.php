@@ -1,5 +1,5 @@
 <?php
-namespace Kakadu\Yii2Helpers\Queue;
+namespace Zanevsky\Yii2Helpers\Sms;
 
 use yii\base\Component;
 

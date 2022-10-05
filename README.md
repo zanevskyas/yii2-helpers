@@ -1,4 +1,4 @@
-# yii2-kakadu-helpers
+# yii2-helpers
 
 Yii2 Helpers
 
@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```bash
-php composer.phar require --prefer-dist kakadu-dev/yii2-kakadu-helpers "@dev"
+php composer.phar require --prefer-dist zanevskyas/yii2-helpers "@dev"
 ```
 
 or add
 
 ```
-"kakadu-dev/yii2-kakadu-helpers": "@dev"
+"kakadu-dev/yii2-helpers": "@dev"
 ```
 
 to the require section of your `composer.json` file.
@@ -27,7 +27,7 @@ Add below code to console main configuration:
 'controllerMap' => [
     ...
     'rbac'    => [
-        'class'      => Kakadu\Yii2Helpers\Rbac::class,
+        'class'      => Zanevsky\Yii2Helpers\Rbac::class,
         'rbacConfig' => RbacConfig::class,
     ],
     ...

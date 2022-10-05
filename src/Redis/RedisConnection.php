@@ -5,7 +5,7 @@
  * Time: 11:50
  */
 
-namespace Kakadu\Yii2Helpers\Redis;
+namespace Zanevsky\Yii2Helpers\Redis;
 
 use yii\helpers\ArrayHelper;
 use yii\redis\Connection;
@@ -13,7 +13,7 @@ use yii\redis\Connection;
 /**
  * Class    RedisConnection
  *
- * @package Kakadu\Yii2Helpers\Redis
+ * @package Zanevsky\Yii2Helpers\Redis
  * @author  Yarmaliuk Mikhail
  * @version 1.0
  */

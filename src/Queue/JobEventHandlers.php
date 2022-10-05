@@ -6,13 +6,13 @@
  * Time: 15:34
  */
 
-namespace Kakadu\Yii2Helpers\Queue;
+namespace Zanevsky\Yii2Helpers\Queue;
 
 use yii\queue\ExecEvent;
 
 /**
  * Class    JobEventHandlers
- * @package Kakadu\Yii2Helpers\Queue
+ * @package Zanevsky\Yii2Helpers\Queue
  * @author  Yarmaliuk Mikhail
  * @version 1.0
  */
