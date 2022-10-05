@@ -6,15 +6,15 @@
  * Time: 11:36
  */
 
-namespace Zanevsky\Yii2Helpers\Traits;
+namespace Kakadu\Yii2Helpers\Traits;
 
 use Yii;
-use Zanevsky\Yii2JwtAuth\JwtBearerAuth;
+use Kakadu\Yii2JwtAuth\JwtBearerAuth;
 use yii\filters\auth\HttpBearerAuth;
 
 /**
  * Trait    BaseUserHelperTrait
- * @package Zanevsky\Yii2Helpers\Traits
+ * @package Kakadu\Yii2Helpers\Traits
  * @author  Yarmaliuk Mikhail
  * @version 3.0
  *

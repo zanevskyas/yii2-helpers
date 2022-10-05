@@ -6,7 +6,7 @@
  * Time: 9:59 AM
  */
 
-namespace Zanevsky\Yii2Helpers\Queue;
+namespace Kakadu\Yii2Helpers\Queue;
 
 use yii\base\Behavior;
 use yii\queue\ErrorEvent;
@@ -17,7 +17,7 @@ use yii\queue\JobInterface;
 
 /**
  * Class    QueueDuplicateBehavior
- * @package Zanevsky\Yii2Helpers\Queue
+ * @package Kakadu\Yii2Helpers\Queue
  * @author  Yarmaliuk Mikhail
  * @version 1.0
  */

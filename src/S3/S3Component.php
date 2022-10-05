@@ -6,13 +6,13 @@
  * Time: 1:15 PM
  */
 
-namespace Zanevsky\Yii2Helpers\S3;
+namespace Kakadu\Yii2Helpers\S3;
 
 use frostealth\yii2\aws\s3\Service;
 
 /**
  * Class    S3Component
- * @package Zanevsky\Yii2Helpers\S3
+ * @package Kakadu\Yii2Helpers\S3
  * @author  Yarmaliuk Mikhail
  * @version 1.0
  */

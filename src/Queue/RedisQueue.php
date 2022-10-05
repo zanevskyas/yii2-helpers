@@ -6,15 +6,15 @@
  * Time: 5:18 PM
  */
 
-namespace Zanevsky\Yii2Helpers\Queue;
+namespace Kakadu\Yii2Helpers\Queue;
 
-use Zanevsky\Yii2Helpers\App\Project;
+use Kakadu\Yii2Helpers\App\Project;
 use yii\queue\redis\Queue;
 use yii\di\Instance;
 
 /**
  * Class    RedisQueue
- * @package Zanevsky\Yii2Helpers\Queue
+ * @package Kakadu\Yii2Helpers\Queue
  * @author  Yarmaliuk Mikhail
  * @version 1.0
  */

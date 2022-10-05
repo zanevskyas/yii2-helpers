@@ -6,17 +6,17 @@
  * Time: 16:58
  */
 
-namespace Zanevsky\Yii2Helpers\Queue\Job;
+namespace Kakadu\Yii2Helpers\Queue\Job;
 
 use yii\base\BaseObject;
 use yii\di\NotInstantiableException;
 use yii\queue\ExecEvent;
-use Zanevsky\Yii2Helpers\Queue\IProjectJob;
+use Kakadu\Yii2Helpers\Queue\IProjectJob;
 use yii\queue\JobInterface;
 
 /**
  * Class    BaseJobObject
- * @package Zanevsky\Yii2Helpers\Queue\Job
+ * @package Kakadu\Yii2Helpers\Queue\Job
  * @author  Yarmaliuk Mikhail
  * @version 1.0
  */

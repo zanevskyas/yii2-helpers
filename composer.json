@@ -1,18 +1,18 @@
 {
-    "name": "zanevskyas/yii2-kakadu-helpers",
-    "description": "Helpers for Yii2",
+    "name": "zanevskyas/yii2-helpers",
+    "description": "Kakadu helpers for Yii2",
     "type": "yii2-extension",
     "keywords": [
         "yii2",
         "extension",
-        "zanevsky",
+        "kakadu",
         "helpers"
     ],
     "license": "MIT",
     "authors": [
         {
-            "name": "Заневский Андрей",
-            "email": "zanevsky.as@gmail.com"
+            "name": "Ярмолюк Михаил",
+            "email": "lukomi@mail.ru"
         }
     ],
     "repositories": [
@@ -31,7 +31,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Zanevsky\\Yii2Helpers\\": "src/"
+            "Kakadu\\Yii2Helpers\\": "src/"
         }
     },
     "config": {

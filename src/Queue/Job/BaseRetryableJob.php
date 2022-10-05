@@ -6,14 +6,14 @@
  * Time: 17:13
  */
 
-namespace Zanevsky\Yii2Helpers\Queue\Job;
+namespace Kakadu\Yii2Helpers\Queue\Job;
 
 use yii\base\Exception;
 use yii\queue\RetryableJobInterface;
 
 /**
  * Class    BaseRetryableJob
- * @package Zanevsky\Yii2Helpers\Queue\Job
+ * @package Kakadu\Yii2Helpers\Queue\Job
  * @author  Yarmaliuk Mikhail
  * @version 1.0
  */

@@ -6,14 +6,14 @@
  * Time: 3:29 PM
  */
 
-namespace Zanevsky\Yii2Helpers\Traits;
+namespace Kakadu\Yii2Helpers\Traits;
 
 use yii\db\ActiveQuery;
 
 /**
  * Trait    DataProviderTrait
  *
- * @package Zanevsky\Yii2Helpers\Traits
+ * @package Kakadu\Yii2Helpers\Traits
  * @author  Yarmaliuk Mikhail
  * @version 1.0
  */

@@ -6,14 +6,14 @@
  * Time: 10:46 PM
  */
 
-namespace Zanevsky\Yii2Helpers\Queue;
+namespace Kakadu\Yii2Helpers\Queue;
 
 use yii\queue\JobInterface;
 use yii\base\Model;
 
 /**
  * Class    ProjectJob
- * @package Zanevsky\Yii2Helpers\Queue
+ * @package Kakadu\Yii2Helpers\Queue
  * @author  Yarmaliuk Mikhail
  * @version 1.0
  */

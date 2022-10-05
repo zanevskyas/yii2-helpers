@@ -6,7 +6,7 @@
  * Time: 09:20
  */
 
-namespace Zanevsky\Yii2Helpers\Logs\Models;
+namespace Kakadu\Yii2Helpers\Logs\Models;
 
 use Yii;
 use yii\behaviors\TimestampBehavior;
@@ -14,7 +14,7 @@ use yii\db\ActiveRecord;
 
 /**
  * Class    Log
- * @package Zanevsky\Yii2Helpers\Logs\Models
+ * @package Kakadu\Yii2Helpers\Logs\Models
  * @author  Yarmaliuk Mikhail
  * @version 1.0
  *

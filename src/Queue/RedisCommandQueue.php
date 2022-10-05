@@ -6,13 +6,13 @@
  * Time: 6:31 PM
  */
 
-namespace Zanevsky\Yii2Helpers\Queue;
+namespace Kakadu\Yii2Helpers\Queue;
 
 use yii\queue\redis\Command;
 
 /**
  * Class    RedisCommandQueue
- * @package Zanevsky\Yii2Helpers\Queue
+ * @package Kakadu\Yii2Helpers\Queue
  * @author  Yarmaliuk Mikhail
  * @version 1.0
  */

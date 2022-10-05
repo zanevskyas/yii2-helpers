@@ -6,17 +6,17 @@
  * Time: 09:21
  */
 
-namespace Zanevsky\Yii2Helpers\Logs\Search;
+namespace Kakadu\Yii2Helpers\Logs\Search;
 
-use Zanevsky\Yii2Helpers\Logs\Models\Log;
-use Zanevsky\Yii2Helpers\Traits\DataProviderTrait;
+use Kakadu\Yii2Helpers\Logs\Models\Log;
+use Kakadu\Yii2Helpers\Traits\DataProviderTrait;
 use MP\ExtendedApi\ModelSearchInterface;
 use yii\data\ActiveDataProvider;
 use yii\db\ActiveQuery;
 
 /**
  * Class    ProductSearch
- * @package Zanevsky\Yii2Helpers\Logs\Search
+ * @package Kakadu\Yii2Helpers\Logs\Search
  * @author  Yarmaliuk Mikhail
  * @version 1.0
  *

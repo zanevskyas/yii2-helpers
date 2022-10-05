@@ -27,7 +27,7 @@ Add below code to console main configuration:
 'controllerMap' => [
     ...
     'rbac'    => [
-        'class'      => Zanevsky\Yii2Helpers\Rbac::class,
+        'class'      => Kakadu\Yii2Helpers\Rbac::class,
         'rbacConfig' => RbacConfig::class,
     ],
     ...

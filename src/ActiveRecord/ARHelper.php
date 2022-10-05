@@ -6,7 +6,7 @@
  * Time: 10:59
  */
 
-namespace Zanevsky\Yii2Helpers\ActiveRecord;
+namespace Kakadu\Yii2Helpers\ActiveRecord;
 
 use Yii;
 use yii\base\InvalidConfigException;
@@ -19,7 +19,7 @@ use Kakadu\Yii2BaseHelpers\BaseHelper;
 
 /**
  * Class    ARHelper
- * @package Zanevsky\Yii2Helpers\ActiveRecord
+ * @package Kakadu\Yii2Helpers\ActiveRecord
  * @version 1.0
  */
 abstract class ARHelper extends ActiveRecord

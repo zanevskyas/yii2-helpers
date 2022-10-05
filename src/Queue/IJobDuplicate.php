@@ -6,11 +6,11 @@
  * Time: 5:57 PM
  */
 
-namespace Zanevsky\Yii2Helpers\Queue;
+namespace Kakadu\Yii2Helpers\Queue;
 
 /**
  * Interface IJobDuplicate
- * @package  Zanevsky\Yii2Helpers\Queue
+ * @package  Kakadu\Yii2Helpers\Queue
  * @author   Yarmaliuk Mikhail
  * @version  1.0
  */
